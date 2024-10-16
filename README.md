@@ -16,6 +16,6 @@ bash
 pip install -r requirements.txt
 """
 Run the application:
-bash
-Copy code
+
 streamlit run app.py
+
