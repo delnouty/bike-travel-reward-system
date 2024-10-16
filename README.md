@@ -9,7 +9,10 @@ Setup Instructions:
 Clone the repository:
 bash
 Copy code
+ ```
 git clone https://github.com/username/bike-travel-reward-system.git
+ ```
+
 Install the dependencies:
  ```bash
 pip install -r requirements.txt
