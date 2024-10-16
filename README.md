@@ -1,10 +1,10 @@
 # Bike Travel Reward System
 This project is a reward system designed to encourage and incentivize bicycle commuting. 
 ## Tech Stack:
-**Streamlit** for the web interface.
-**Python** for backend logic and trip optimization.
-**Docker** for containerization.
-**Git** for version control.
+* **Streamlit** for the web interface.
+* **Python** for backend logic and trip optimization.
+* **Docker** for containerization.
+* **Git** for version control.
 ## Setup Instructions:
 1. Clone the repository:
  ```
